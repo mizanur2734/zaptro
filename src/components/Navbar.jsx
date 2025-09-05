@@ -1,11 +1,12 @@
+import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/clerk-react";
 import { MapPin } from "lucide-react";
 import React from "react";
 import { FaCaretDown } from "react-icons/fa";
 import { IoCartOutline } from "react-icons/io5";
 import { Link, NavLink } from "react-router-dom";
 
-const Navbar = () => {
-  const location = false;
+const Navbar = ({location}) => {
+  
   return (
     <div className="bg-white py-3 shadow-2xl">
       <div className="max-w-6xl mx-auto flex justify-between items-center px-12">
@@ -46,6 +47,14 @@ const Navbar = () => {
           <span className="bg-red-500 w-5 h-5 flex items-center justify-center  rounded-full absolute -top-2 -right-3
            text-white">0</span>
           </Link>
+          <div>
+            <SignedOut>
+              <SignInButton className="bg-red-500 text-white px-3 py-1 rounded-md cursor-pointer"/>
+            </SignedOut>
+            <SignedIn>
+               <UserButton />
+            </SignedIn>
+          </div>
         </nav>
       </div>
     </div>
