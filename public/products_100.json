@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "title": "Sony Product Model 1",
+    "image": "https://picsum.photos/seed/1/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Asus",
+    "category": "gaming",
+    "color": "red",
+    "discount": 12
+  },
+  {
+    "id": 2,
+    "title": "Bose Product Model 2",
+    "image": "https://picsum.photos/seed/2/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Sony",
+    "category": "accessories",
+    "color": "black",
+    "discount": 17
+  },
+  {
+    "id": 3,
+    "title": "Dell Product Model 3",
+    "image": "https://picsum.photos/seed/3/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Sony",
+    "category": "laptop",
+    "color": "gray",
+    "discount": 16
+  },
+  {
+    "id": 4,
+    "title": "Lenovo Product Model 4",
+    "image": "https://picsum.photos/seed/4/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Lenovo",
+    "category": "accessories",
+    "color": "blue",
+    "discount": 13
+  },
+  {
+    "id": 5,
+    "title": "Dell Product Model 5",
+    "image": "https://picsum.photos/seed/5/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "HP",
+    "category": "audio",
+    "color": "gray",
+    "discount": 13
+  },
+  {
+    "id": 6,
+    "title": "HP Product Model 6",
+    "image": "https://picsum.photos/seed/6/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Microsoft",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 7
+  },
+  {
+    "id": 7,
+    "title": "Dell Product Model 7",
+    "image": "https://picsum.photos/seed/7/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Samsung",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 7
+  },
+  {
+    "id": 8,
+    "title": "Apple Product Model 8",
+    "image": "https://picsum.photos/seed/8/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Apple",
+    "category": "audio",
+    "color": "silver",
+    "discount": 9
+  },
+  {
+    "id": 9,
+    "title": "Bose Product Model 9",
+    "image": "https://picsum.photos/seed/9/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "HP",
+    "category": "mobile",
+    "color": "red",
+    "discount": 8
+  },
+  {
+    "id": 10,
+    "title": "Apple Product Model 10",
+    "image": "https://picsum.photos/seed/10/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Dell",
+    "category": "audio",
+    "color": "silver",
+    "discount": 11
+  },
+  {
+    "id": 11,
+    "title": "Dell Product Model 11",
+    "image": "https://picsum.photos/seed/11/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Samsung",
+    "category": "accessories",
+    "color": "white",
+    "discount": 5
+  },
+  {
+    "id": 12,
+    "title": "Dell Product Model 12",
+    "image": "https://picsum.photos/seed/12/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Dell",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 17
+  },
+  {
+    "id": 13,
+    "title": "Samsung Product Model 13",
+    "image": "https://picsum.photos/seed/13/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Asus",
+    "category": "gaming",
+    "color": "white",
+    "discount": 18
+  },
+  {
+    "id": 14,
+    "title": "Bose Product Model 14",
+    "image": "https://picsum.photos/seed/14/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Microsoft",
+    "category": "mobile",
+    "color": "blue",
+    "discount": 9
+  },
+  {
+    "id": 15,
+    "title": "Microsoft Product Model 15",
+    "image": "https://picsum.photos/seed/15/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Sony",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 11
+  },
+  {
+    "id": 16,
+    "title": "HP Product Model 16",
+    "image": "https://picsum.photos/seed/16/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Microsoft",
+    "category": "audio",
+    "color": "red",
+    "discount": 9
+  },
+  {
+    "id": 17,
+    "title": "Bose Product Model 17",
+    "image": "https://picsum.photos/seed/17/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Samsung",
+    "category": "accessories",
+    "color": "black",
+    "discount": 5
+  },
+  {
+    "id": 18,
+    "title": "Bose Product Model 18",
+    "image": "https://picsum.photos/seed/18/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "color": "red",
+    "discount": 10
+  },
+  {
+    "id": 19,
+    "title": "Logitech Product Model 19",
+    "image": "https://picsum.photos/seed/19/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Samsung",
+    "category": "mobile",
+    "color": "black",
+    "discount": 18
+  },
+  {
+    "id": 20,
+    "title": "Asus Product Model 20",
+    "image": "https://picsum.photos/seed/20/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "HP",
+    "category": "accessories",
+    "color": "red",
+    "discount": 11
+  },
+  {
+    "id": 21,
+    "title": "Logitech Product Model 21",
+    "image": "https://picsum.photos/seed/21/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Asus",
+    "category": "laptop",
+    "color": "white",
+    "discount": 10
+  },
+  {
+    "id": 22,
+    "title": "Sony Product Model 22",
+    "image": "https://picsum.photos/seed/22/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "HP",
+    "category": "audio",
+    "color": "gray",
+    "discount": 18
+  },
+  {
+    "id": 23,
+    "title": "Lenovo Product Model 23",
+    "image": "https://picsum.photos/seed/23/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Dell",
+    "category": "gaming",
+    "color": "silver",
+    "discount": 14
+  },
+  {
+    "id": 24,
+    "title": "Dell Product Model 24",
+    "image": "https://picsum.photos/seed/24/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Sony",
+    "category": "audio",
+    "color": "blue",
+    "discount": 9
+  },
+  {
+    "id": 25,
+    "title": "HP Product Model 25",
+    "image": "https://picsum.photos/seed/25/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Sony",
+    "category": "accessories",
+    "color": "white",
+    "discount": 19
+  },
+  {
+    "id": 26,
+    "title": "Asus Product Model 26",
+    "image": "https://picsum.photos/seed/26/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "HP",
+    "category": "audio",
+    "color": "black",
+    "discount": 14
+  },
+  {
+    "id": 27,
+    "title": "Microsoft Product Model 27",
+    "image": "https://picsum.photos/seed/27/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Samsung",
+    "category": "laptop",
+    "color": "white",
+    "discount": 12
+  },
+  {
+    "id": 28,
+    "title": "Asus Product Model 28",
+    "image": "https://picsum.photos/seed/28/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Bose",
+    "category": "audio",
+    "color": "black",
+    "discount": 6
+  },
+  {
+    "id": 29,
+    "title": "Logitech Product Model 29",
+    "image": "https://picsum.photos/seed/29/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Lenovo",
+    "category": "audio",
+    "color": "green",
+    "discount": 14
+  },
+  {
+    "id": 30,
+    "title": "Bose Product Model 30",
+    "image": "https://picsum.photos/seed/30/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Bose",
+    "category": "audio",
+    "color": "black",
+    "discount": 7
+  },
+  {
+    "id": 31,
+    "title": "Sony Product Model 31",
+    "image": "https://picsum.photos/seed/31/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Dell",
+    "category": "laptop",
+    "color": "white",
+    "discount": 19
+  },
+  {
+    "id": 32,
+    "title": "HP Product Model 32",
+    "image": "https://picsum.photos/seed/32/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Microsoft",
+    "category": "audio",
+    "color": "green",
+    "discount": 19
+  },
+  {
+    "id": 33,
+    "title": "Apple Product Model 33",
+    "image": "https://picsum.photos/seed/33/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Logitech",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 7
+  },
+  {
+    "id": 34,
+    "title": "Sony Product Model 34",
+    "image": "https://picsum.photos/seed/34/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Apple",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 13
+  },
+  {
+    "id": 35,
+    "title": "HP Product Model 35",
+    "image": "https://picsum.photos/seed/35/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Asus",
+    "category": "accessories",
+    "color": "silver",
+    "discount": 5
+  },
+  {
+    "id": 36,
+    "title": "Dell Product Model 36",
+    "image": "https://picsum.photos/seed/36/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Microsoft",
+    "category": "audio",
+    "color": "white",
+    "discount": 14
+  },
+  {
+    "id": 37,
+    "title": "Apple Product Model 37",
+    "image": "https://picsum.photos/seed/37/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Apple",
+    "category": "gaming",
+    "color": "green",
+    "discount": 19
+  },
+  {
+    "id": 38,
+    "title": "Dell Product Model 38",
+    "image": "https://picsum.photos/seed/38/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "HP",
+    "category": "laptop",
+    "color": "silver",
+    "discount": 13
+  },
+  {
+    "id": 39,
+    "title": "HP Product Model 39",
+    "image": "https://picsum.photos/seed/39/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Sony",
+    "category": "laptop",
+    "color": "silver",
+    "discount": 7
+  },
+  {
+    "id": 40,
+    "title": "Sony Product Model 40",
+    "image": "https://picsum.photos/seed/40/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Logitech",
+    "category": "gaming",
+    "color": "black",
+    "discount": 6
+  },
+  {
+    "id": 41,
+    "title": "Apple Product Model 41",
+    "image": "https://picsum.photos/seed/41/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Sony",
+    "category": "gaming",
+    "color": "white",
+    "discount": 15
+  },
+  {
+    "id": 42,
+    "title": "Dell Product Model 42",
+    "image": "https://picsum.photos/seed/42/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Asus",
+    "category": "gaming",
+    "color": "green",
+    "discount": 17
+  },
+  {
+    "id": 43,
+    "title": "Logitech Product Model 43",
+    "image": "https://picsum.photos/seed/43/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Sony",
+    "category": "laptop",
+    "color": "red",
+    "discount": 14
+  },
+  {
+    "id": 44,
+    "title": "Asus Product Model 44",
+    "image": "https://picsum.photos/seed/44/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Sony",
+    "category": "mobile",
+    "color": "white",
+    "discount": 6
+  },
+  {
+    "id": 45,
+    "title": "Microsoft Product Model 45",
+    "image": "https://picsum.photos/seed/45/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Apple",
+    "category": "audio",
+    "color": "silver",
+    "discount": 18
+  },
+  {
+    "id": 46,
+    "title": "Asus Product Model 46",
+    "image": "https://picsum.photos/seed/46/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Microsoft",
+    "category": "mobile",
+    "color": "green",
+    "discount": 15
+  },
+  {
+    "id": 47,
+    "title": "HP Product Model 47",
+    "image": "https://picsum.photos/seed/47/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Lenovo",
+    "category": "audio",
+    "color": "silver",
+    "discount": 5
+  },
+  {
+    "id": 48,
+    "title": "Apple Product Model 48",
+    "image": "https://picsum.photos/seed/48/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "color": "gray",
+    "discount": 20
+  },
+  {
+    "id": 49,
+    "title": "Logitech Product Model 49",
+    "image": "https://picsum.photos/seed/49/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Bose",
+    "category": "audio",
+    "color": "blue",
+    "discount": 14
+  },
+  {
+    "id": 50,
+    "title": "Bose Product Model 50",
+    "image": "https://picsum.photos/seed/50/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "HP",
+    "category": "accessories",
+    "color": "black",
+    "discount": 12
+  },
+  {
+    "id": 51,
+    "title": "Apple Product Model 51",
+    "image": "https://picsum.photos/seed/51/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Logitech",
+    "category": "audio",
+    "color": "green",
+    "discount": 9
+  },
+  {
+    "id": 52,
+    "title": "Samsung Product Model 52",
+    "image": "https://picsum.photos/seed/52/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Apple",
+    "category": "laptop",
+    "color": "red",
+    "discount": 13
+  },
+  {
+    "id": 53,
+    "title": "Dell Product Model 53",
+    "image": "https://picsum.photos/seed/53/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Logitech",
+    "category": "accessories",
+    "color": "white",
+    "discount": 20
+  },
+  {
+    "id": 54,
+    "title": "Bose Product Model 54",
+    "image": "https://picsum.photos/seed/54/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Lenovo",
+    "category": "accessories",
+    "color": "red",
+    "discount": 16
+  },
+  {
+    "id": 55,
+    "title": "Sony Product Model 55",
+    "image": "https://picsum.photos/seed/55/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Samsung",
+    "category": "accessories",
+    "color": "white",
+    "discount": 8
+  },
+  {
+    "id": 56,
+    "title": "Microsoft Product Model 56",
+    "image": "https://picsum.photos/seed/56/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Logitech",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 13
+  },
+  {
+    "id": 57,
+    "title": "HP Product Model 57",
+    "image": "https://picsum.photos/seed/57/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Lenovo",
+    "category": "accessories",
+    "color": "green",
+    "discount": 10
+  },
+  {
+    "id": 58,
+    "title": "Lenovo Product Model 58",
+    "image": "https://picsum.photos/seed/58/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Sony",
+    "category": "accessories",
+    "color": "silver",
+    "discount": 19
+  },
+  {
+    "id": 59,
+    "title": "Dell Product Model 59",
+    "image": "https://picsum.photos/seed/59/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Samsung",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 14
+  },
+  {
+    "id": 60,
+    "title": "Dell Product Model 60",
+    "image": "https://picsum.photos/seed/60/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Lenovo",
+    "category": "accessories",
+    "color": "red",
+    "discount": 13
+  },
+  {
+    "id": 61,
+    "title": "Samsung Product Model 61",
+    "image": "https://picsum.photos/seed/61/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Microsoft",
+    "category": "laptop",
+    "color": "blue",
+    "discount": 6
+  },
+  {
+    "id": 62,
+    "title": "Samsung Product Model 62",
+    "image": "https://picsum.photos/seed/62/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Asus",
+    "category": "laptop",
+    "color": "white",
+    "discount": 19
+  },
+  {
+    "id": 63,
+    "title": "Microsoft Product Model 63",
+    "image": "https://picsum.photos/seed/63/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Asus",
+    "category": "accessories",
+    "color": "black",
+    "discount": 16
+  },
+  {
+    "id": 64,
+    "title": "Sony Product Model 64",
+    "image": "https://picsum.photos/seed/64/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Bose",
+    "category": "accessories",
+    "color": "silver",
+    "discount": 12
+  },
+  {
+    "id": 65,
+    "title": "Samsung Product Model 65",
+    "image": "https://picsum.photos/seed/65/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Microsoft",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 18
+  },
+  {
+    "id": 66,
+    "title": "Bose Product Model 66",
+    "image": "https://picsum.photos/seed/66/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Microsoft",
+    "category": "laptop",
+    "color": "silver",
+    "discount": 20
+  },
+  {
+    "id": 67,
+    "title": "Sony Product Model 67",
+    "image": "https://picsum.photos/seed/67/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Asus",
+    "category": "gaming",
+    "color": "white",
+    "discount": 6
+  },
+  {
+    "id": 68,
+    "title": "Bose Product Model 68",
+    "image": "https://picsum.photos/seed/68/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Logitech",
+    "category": "gaming",
+    "color": "white",
+    "discount": 20
+  },
+  {
+    "id": 69,
+    "title": "Sony Product Model 69",
+    "image": "https://picsum.photos/seed/69/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Asus",
+    "category": "accessories",
+    "color": "white",
+    "discount": 17
+  },
+  {
+    "id": 70,
+    "title": "Apple Product Model 70",
+    "image": "https://picsum.photos/seed/70/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Bose",
+    "category": "accessories",
+    "color": "red",
+    "discount": 6
+  },
+  {
+    "id": 71,
+    "title": "Bose Product Model 71",
+    "image": "https://picsum.photos/seed/71/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Bose",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 17
+  },
+  {
+    "id": 72,
+    "title": "Microsoft Product Model 72",
+    "image": "https://picsum.photos/seed/72/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Logitech",
+    "category": "audio",
+    "color": "silver",
+    "discount": 19
+  },
+  {
+    "id": 73,
+    "title": "Samsung Product Model 73",
+    "image": "https://picsum.photos/seed/73/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Asus",
+    "category": "mobile",
+    "color": "blue",
+    "discount": 19
+  },
+  {
+    "id": 74,
+    "title": "Apple Product Model 74",
+    "image": "https://picsum.photos/seed/74/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Dell",
+    "category": "accessories",
+    "color": "black",
+    "discount": 14
+  },
+  {
+    "id": 75,
+    "title": "Samsung Product Model 75",
+    "image": "https://picsum.photos/seed/75/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "HP",
+    "category": "laptop",
+    "color": "black",
+    "discount": 13
+  },
+  {
+    "id": 76,
+    "title": "Bose Product Model 76",
+    "image": "https://picsum.photos/seed/76/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Samsung",
+    "category": "laptop",
+    "color": "silver",
+    "discount": 19
+  },
+  {
+    "id": 77,
+    "title": "Microsoft Product Model 77",
+    "image": "https://picsum.photos/seed/77/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Logitech",
+    "category": "gaming",
+    "color": "red",
+    "discount": 17
+  },
+  {
+    "id": 78,
+    "title": "Microsoft Product Model 78",
+    "image": "https://picsum.photos/seed/78/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Bose",
+    "category": "audio",
+    "color": "red",
+    "discount": 17
+  },
+  {
+    "id": 79,
+    "title": "HP Product Model 79",
+    "image": "https://picsum.photos/seed/79/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Samsung",
+    "category": "laptop",
+    "color": "blue",
+    "discount": 19
+  },
+  {
+    "id": 80,
+    "title": "Apple Product Model 80",
+    "image": "https://picsum.photos/seed/80/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "color": "gray",
+    "discount": 15
+  },
+  {
+    "id": 81,
+    "title": "Logitech Product Model 81",
+    "image": "https://picsum.photos/seed/81/400/400",
+    "description": "Compatible with multiple devices and seamless voice assistant integration.",
+    "brand": "Asus",
+    "category": "accessories",
+    "color": "red",
+    "discount": 8
+  },
+  {
+    "id": 82,
+    "title": "Bose Product Model 82",
+    "image": "https://picsum.photos/seed/82/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Microsoft",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 15
+  },
+  {
+    "id": 83,
+    "title": "Bose Product Model 83",
+    "image": "https://picsum.photos/seed/83/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Dell",
+    "category": "audio",
+    "color": "silver",
+    "discount": 15
+  },
+  {
+    "id": 84,
+    "title": "Samsung Product Model 84",
+    "image": "https://picsum.photos/seed/84/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Sony",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 14
+  },
+  {
+    "id": 85,
+    "title": "Logitech Product Model 85",
+    "image": "https://picsum.photos/seed/85/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Dell",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 14
+  },
+  {
+    "id": 86,
+    "title": "Dell Product Model 86",
+    "image": "https://picsum.photos/seed/86/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "color": "white",
+    "discount": 19
+  },
+  {
+    "id": 87,
+    "title": "Bose Product Model 87",
+    "image": "https://picsum.photos/seed/87/400/400",
+    "description": "High-quality sound with noise cancellation and long-lasting battery.",
+    "brand": "Logitech",
+    "category": "accessories",
+    "color": "green",
+    "discount": 6
+  },
+  {
+    "id": 88,
+    "title": "Apple Product Model 88",
+    "image": "https://picsum.photos/seed/88/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Samsung",
+    "category": "accessories",
+    "color": "blue",
+    "discount": 19
+  },
+  {
+    "id": 89,
+    "title": "HP Product Model 89",
+    "image": "https://picsum.photos/seed/89/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "HP",
+    "category": "audio",
+    "color": "red",
+    "discount": 7
+  },
+  {
+    "id": 90,
+    "title": "HP Product Model 90",
+    "image": "https://picsum.photos/seed/90/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "HP",
+    "category": "mobile",
+    "color": "black",
+    "discount": 20
+  },
+  {
+    "id": 91,
+    "title": "Apple Product Model 91",
+    "image": "https://picsum.photos/seed/91/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Dell",
+    "category": "accessories",
+    "color": "gray",
+    "discount": 11
+  },
+  {
+    "id": 92,
+    "title": "Microsoft Product Model 92",
+    "image": "https://picsum.photos/seed/92/400/400",
+    "description": "Portable design with fast charging and premium finish.",
+    "brand": "Asus",
+    "category": "audio",
+    "color": "blue",
+    "discount": 7
+  },
+  {
+    "id": 93,
+    "title": "Lenovo Product Model 93",
+    "image": "https://picsum.photos/seed/93/400/400",
+    "description": "Powerful bass with adaptive sound control and Bluetooth 5.2.",
+    "brand": "Bose",
+    "category": "audio",
+    "color": "red",
+    "discount": 14
+  },
+  {
+    "id": 94,
+    "title": "Bose Product Model 94",
+    "image": "https://picsum.photos/seed/94/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Asus",
+    "category": "accessories",
+    "color": "red",
+    "discount": 15
+  },
+  {
+    "id": 95,
+    "title": "Bose Product Model 95",
+    "image": "https://picsum.photos/seed/95/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "color": "black",
+    "discount": 17
+  },
+  {
+    "id": 96,
+    "title": "Microsoft Product Model 96",
+    "image": "https://picsum.photos/seed/96/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Apple",
+    "category": "accessories",
+    "color": "black",
+    "discount": 6
+  },
+  {
+    "id": 97,
+    "title": "Asus Product Model 97",
+    "image": "https://picsum.photos/seed/97/400/400",
+    "description": "Designed for gamers with low latency and RGB customization.",
+    "brand": "Asus",
+    "category": "laptop",
+    "color": "black",
+    "discount": 15
+  },
+  {
+    "id": 98,
+    "title": "Samsung Product Model 98",
+    "image": "https://picsum.photos/seed/98/400/400",
+    "description": "Crystal clear microphone for calls and lightweight design.",
+    "brand": "Apple",
+    "category": "gaming",
+    "color": "red",
+    "discount": 12
+  },
+  {
+    "id": 99,
+    "title": "Dell Product Model 99",
+    "image": "https://picsum.photos/seed/99/400/400",
+    "description": "Advanced drivers ensure distortion-free audio with deep clarity.",
+    "brand": "Dell",
+    "category": "mobile",
+    "color": "gray",
+    "discount": 14
+  },
+  {
+    "id": 100,
+    "title": "Lenovo Product Model 100",
+    "image": "https://picsum.photos/seed/100/400/400",
+    "description": "Ergonomic build for all-day comfort and immersive experience.",
+    "brand": "Logitech",
+    "category": "gaming",
+    "color": "white",
+    "discount": 10
+  }
+]

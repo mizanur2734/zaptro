@@ -5,3 +5,14 @@
     width: 4rem;
     height: 4rem;
 }
+
+.arrows{
+    height: 40px;
+    width: 40px;
+    margin: 1px;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+    
+  }

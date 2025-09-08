@@ -17,11 +17,12 @@ if (!PUBLISHABLE_KEY) {
 
 const App = () => {
   const [location, setLocation] = useState()
+  const [openDropdown, setOpenDropdown] = useState(false)
 
   const getLocation = async ()=>{
     navigator.geolocation.getCurrentPosition(async post => {
       const {latitude, longitude} = post.coords
-      console.log(latitude, longitude)
+      // console.log(latitude, longitude)
 
       const url = `https://nominatim.openstreetmap.org/reverse?lat=${latitude}&lon=${longitude}&format=json`;
 
@@ -29,7 +30,8 @@ const App = () => {
       const response = await axios.get(url);
       const exactLocation = response.data.address
       setLocation(exactLocation)
-      console.log(exactLocation)
+      setOpenDropdown(false)
+      // console.log(exactLocation)
     } catch (error) {
       console.error("Error fetching location:", error);
     }
@@ -40,7 +42,8 @@ const App = () => {
     },[])
   return (
     <BrowserRouter>
-      <Navbar location={location}/>
+      <Navbar location={location} getLocation={getLocation} openDropdown={openDropdown} 
+      setOpenDropdown={setOpenDropdown}/>
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/products" element={<Products />}></Route>
