@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Cart from "./pages/Cart";
 import Navbar from "./Components/Navbar";
 import axios from "axios";
+// import Footer from "./components/Footer";
 
 // Import your Publishable Key
 const PUBLISHABLE_KEY = import.meta.env.VITE_CLERK_PUBLISHABLE_KEY
@@ -51,6 +52,7 @@ const App = () => {
         <Route path="/about" element={<About />}></Route>
         <Route path="/cart" element={<Cart />}></Route>
       </Routes>
+      {/* <Footer/> */}
     </BrowserRouter>
   );
 };
